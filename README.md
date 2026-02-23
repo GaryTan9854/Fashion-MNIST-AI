@@ -9,3 +9,6 @@
 ## 預期結果
 - 目標準確率：> 85%
 - 訓練設備：Macbook MPS (Apple Silicon)
+
+4. 找張圖片命名為 test_item.jpg
+5. 執行預測：`python3 predict.py` 看看是否能正確預測
